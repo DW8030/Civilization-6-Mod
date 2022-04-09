@@ -876,7 +876,7 @@
         "isWonder": true,
         "cost": 1740,
         "culture": 8,
-        "specialistSlots": {"Arist": 3},
+        "specialistSlots": {"Artist": 3},
         "greatPersonPoints": {"culture": 5},
         "uniques": ["Must be next to [Coast]","Requires [Cultural Heritage]"],
         "quote": "'An opera begins long before the curtain goes up and ends long after it has come down. It starts in my imagination, it becomes my life, and it stays part of my life long after I've left the opera house.' –Maria Callas"
@@ -899,7 +899,7 @@
             "Double quantity of [Iron] produced","Double quantity of [Niter] produced",
             "Double quantity of [Coal] produced","Double quantity of [Oil] produced",
             "Double quantity of [Uranium] produced","Double quantity of [Aluminum] produced",
-            "Gain a free [City Center] [in every city]","[-1 Gold] from every [River]"]
+            "Gain a free [City Center] [in all cities]","[-1 Gold] from every [River]"]
     },
     {
         "name": "Monument",

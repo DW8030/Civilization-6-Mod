@@ -361,7 +361,7 @@
 		"requiredTech": "Iron Working",
 		"obsoleteTech": "Gunpowder",
 		"upgradesTo": "Musketman",
-		"uniques": ["Can construct [Pā]","-10% combat strength for adjacent enemy units","Bonus vs Armor 33%"],
+		"uniques": ["Can construct [Pa]","-10% combat strength for adjacent enemy units","Bonus vs Armor 33%"],
 		"attackSound": "nonmetalhit"
 	},
 	{

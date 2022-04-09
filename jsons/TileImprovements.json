@@ -285,7 +285,7 @@
 		"terrainsCanBeBuiltOn": ["Grassland","Plains"],
 		"uniques": ["[+1 Food] for each adjacent [Plantation]",
 			"[+1 Production] for each adjacent [Hacienda]",
-			"[+1 Food, +1 Production] once [Replacaeble Parts] is discovered"]
+			"[+1 Food, +1 Production] once [Replaceable Parts] is discovered"]
 	},
 	{
 		"name": "Ice Hockey Rink",
